@@ -2,6 +2,7 @@
 
 - ⚡ Atualmente integrado a um projeto de iniciação científica na área de Data Science...
 - 🌱 Frequentemente aprendendo/estudando Python...
+- 🐱‍🏍 Estudando framework Django integrado ao Python
 
 <div align="center">
   <a href="https://github.com/Andre-Goncalves-Martins">
